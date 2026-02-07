@@ -2,3 +2,4 @@
 Bu benim ilk denemem.
 İlk commit eklendi
 pikseller 
+commit 2
